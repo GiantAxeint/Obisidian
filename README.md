@@ -1,2 +1,2 @@
-# Obisidian
+# Obsidian
 SelfStudyNote
